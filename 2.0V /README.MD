@@ -7,4 +7,4 @@ Update to Router Line and PCB
 
 Electronic Scheme
 ---
-![image](https://i.imgur.com/YTEhpec.png)
+![image](https://i.imgur.com/dviAeTH.png)
