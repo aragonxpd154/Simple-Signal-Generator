@@ -10,4 +10,4 @@ I'm going to use in this project the HEF4069UB, this general purpose hexagonal i
 
 Electronic Scheme
 ---
-![image](https://i.imgur.com/YTEhpec.png)
+![image](https://i.imgur.com/fcdnT5s.png)
