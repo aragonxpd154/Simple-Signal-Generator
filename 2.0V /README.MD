@@ -5,7 +5,7 @@ Description
 
 Update to Router Line and PCB
 
-Electronic Scheme
+3D Viewer
 ---
 
 ![3dViewer](https://i.imgur.com/9oforLe.png)
