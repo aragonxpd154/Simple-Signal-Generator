@@ -11,3 +11,10 @@ I'm going to use in this project the HEF4069UB, this general purpose hexagonal i
 Electronic Scheme
 ---
 ![image](https://i.imgur.com/fcdnT5s.png)
+
+
+3D Viewer
+---
+![image](https://i.imgur.com/9oforLe.png)
+
+
