@@ -27,5 +27,3 @@ https://user-images.githubusercontent.com/28926095/198848298-22348a6a-6964-4ca7-
 ![20220118_174528](https://user-images.githubusercontent.com/28926095/198848344-020ffc0d-7b38-4f19-9792-744580f226c8.jpg)
 ![20220118_173820](https://user-images.githubusercontent.com/28926095/198848353-c09d9bbc-c138-4209-a1a3-a040686d01b2.jpg)
 
- ##   Here is a random joke that'll make you laugh!
- ![Jokes Card](https://readme-jokes.vercel.app/api)
