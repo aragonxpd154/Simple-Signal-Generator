@@ -1,9 +1,9 @@
-<h1 aligh="center">
+<h1 align="center">
 <img alt="Simple Signal Generator" src="https://raw.githubusercontent.com/aragonxpd154/Simple-Signal-Generator/main/REHEARSAL/SIMPLE%20SIGNAL%20GENERATOR_free-file.png"/>
 <br>
 </h1>
 
-<h4 aligh="center">
+<h4 align="center">
 
 This board is intended to generate signals for comparison on the oscilloscope, either your reference or for parallel projects to be used. I'm going to use in this project the HEF4069UB, this general purpose hexagonal inverter. Each inverter has a single stage. It operates on a recommended VDD power supply range of 3V to 15V with reference to VSS (generally grounded). Unused inputs must be connected to VDD, VSS or other input
 
@@ -34,7 +34,7 @@ This board is intended to generate signals for comparison on the oscilloscope, e
 
 ## :rocket: Technologies
 
-This project is still in the development stage and using the following technologies
+This project was used with the following technologies:
 
 -  [EasyEDA](https://easyeda.com/)
 -  [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
@@ -43,7 +43,7 @@ This project is still in the development stage and using the following technolog
 
 ## :information_source: How To Use
 
-This project directory contains a folder with its respective version (in a subfolder), the electronic schematic and the layout of the printed circuit board (PCB) and compiled code, which is specific to each function of the 8bit computer.
+This project directory contains a folder with its respective version (in a subfolder), the electronic schematic and the layout of the printed circuit board (PCB), which is specific to each function of the 8bit computer.
 
 Always check and/or use the highest numbered version or most recent modification described in the commit for example:
 
@@ -62,7 +62,7 @@ To clone and download all project directories you can use [Git](https://git-scm.
 To clone the current directory use the command:
 ```bash
 # Clone this repository
-$ git clone https://github.com/aragonxpd154/8-bits-computer
+$ git clone https://github.com/aragonxpd154/Simple-Signal-Generator
 ````
 
 ## ☕ Electric Scheme
@@ -71,7 +71,7 @@ $ git clone https://github.com/aragonxpd154/8-bits-computer
 
 ## 💻 Development Status
 
-the project was completed ^^, below are some final tests:
+The project was completed ^^, below are some final tests:
 
 https://user-images.githubusercontent.com/28926095/198848298-22348a6a-6964-4ca7-8867-2f6d6a8b5047.mp4
 
