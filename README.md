@@ -81,7 +81,7 @@ https://user-images.githubusercontent.com/28926095/198848298-22348a6a-6964-4ca7-
 ![20220118_173820](https://user-images.githubusercontent.com/28926095/198848353-c09d9bbc-c138-4209-a1a3-a040686d01b2.jpg)
 
 ## :memo: License
-This project is under the GPL v3.0 license. See the [LICENSE](https://github.com/aragonxpd154/8-bits-computer/blob/main/LICENSE) for more information.
+This project is under the GPL v3.0 license. See the [LICENSE](https://github.com/aragonxpd154/Simple-Signal-Generator/blob/main/LICENSE) for more information.
 
 ---
 
