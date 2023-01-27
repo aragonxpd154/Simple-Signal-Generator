@@ -43,7 +43,7 @@ This project was used with the following technologies:
 
 ## :information_source: How To Use
 
-This project directory contains a folder with its respective version (in a subfolder), the electronic schematic and the layout of the printed circuit board (PCB), which is specific to each function of the 8bit computer.
+This project directory contains a folder with its respective version (in a subfolder), the electronic schematic and the layout of the printed circuit board (PCB).
 
 Always check and/or use the highest numbered version or most recent modification described in the commit for example:
 
